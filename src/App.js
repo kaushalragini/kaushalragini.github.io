@@ -14,7 +14,6 @@ export default function App() {
       <AboutMe />
       <Projects />
       <Skills />
-
       <Contact />
     </main>
   );

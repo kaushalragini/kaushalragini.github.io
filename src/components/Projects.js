@@ -1,7 +1,5 @@
 import { CodeIcon } from "@heroicons/react/solid";
 import React from "react";
-import { projects } from "../data";
-//import GithubCalender from "./GithubCalender";
 
 export default function Projects() {
   const myProjects = [
