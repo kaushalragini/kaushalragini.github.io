@@ -1,5 +1,4 @@
 import React from "react";
-
 export default function About() {
   return (
     <section id="about">
@@ -20,20 +19,24 @@ export default function About() {
           </p>
           <div className="flex justify-center">
             <a
-              href="#"
-              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 hover:bg-gray-700 hover:text-white rounded text-lg"
+              href="https://drive.google.com/file/d/1oSZLI8geZ3wIdPrJ68FQR-SGSNfsJ3SF/view?usp=share_link"
+              target="_blank"
+              className="ml-4 text-gray-400 inline-block bg-gray-800 border-0 py-2 px-2 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-md"
             >
               Resume
             </a>
             <a
-              href="#"
-              className="ml-4 inline-flex text-white text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none rounded text-lg"
+              href="https://github.com/kaushalragini"
+              target="_blank"
+              className="ml-4 text-gray-400 inline-block bg-gray-800 border-0 py-2 px-2 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-md"
+              download
             >
               Github
             </a>
             <a
-              href="#"
-              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
+              href="https://www.linkedin.com/in/ragini-kaushal-7a6975119/"
+              target="_blank"
+              className="ml-4 text-gray-400 inline-block bg-gray-800 border-0 py-2 px-2 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-md"
             >
               Linkedin
             </a>
@@ -41,9 +44,10 @@ export default function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center rounded"
+            className="object-cover object-center rounded aboutImage"
             alt="hero"
-            src="./110046267.jpeg"
+            src="./ProfilePic.jpg"
+            // style={{ width: "250px", height: "300px" }}
           />
         </div>
       </div>
