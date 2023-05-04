@@ -1,6 +1,31 @@
 {
-  "main.css": "static/css/main.6dc307d0.css",
-  "main.css.map": "static/css/main.6dc307d0.css.map",
-  "main.js": "static/js/main.562b8a3c.js",
-  "main.js.map": "static/js/main.562b8a3c.js.map"
+  "files": {
+    "main.css": "/static/css/main.b099a8a7.css",
+    "main.js": "/static/js/main.5fa1c637.js",
+    "static/media/About.jpg": "/static/media/About.ab1464739460b4e902ed.jpg",
+    "static/media/lifeStyle.png": "/static/media/lifeStyle.c242dd2abc6422f215c0.png",
+    "static/media/Upstyle.png": "/static/media/Upstyle.d52c3eef363520a5b8d5.png",
+    "static/media/FirstRent.png": "/static/media/FirstRent.3ce9ef6be67f33a454e2.png",
+    "static/media/TrendyFashion.png": "/static/media/TrendyFashion.e7eb618542b2278f7eb0.png",
+    "static/media/Bluefly.png": "/static/media/Bluefly.2b504811ec5289af03b0.png",
+    "static/media/Modesens.png": "/static/media/Modesens.d109a66cdbb6325828b6.png",
+    "static/media/Ragini-Kaushal-Resume.pdf": "/static/media/Ragini-Kaushal-Resume.2cdab1435412dd7f23d1.pdf",
+    "static/media/brandBanner.png": "/static/media/brandBanner.025257503eb016e08acb.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/contactus.jpg": "/static/media/contactus.fa9a7ddebedfa0d75bcb.jpg",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/express.png": "/static/media/express.39a0f4c3d981885c64f8.png",
+    "static/media/redux.png": "/static/media/redux.b3b939c66aecf7d53967.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.b099a8a7.css.map": "/static/css/main.b099a8a7.css.map",
+    "main.5fa1c637.js.map": "/static/js/main.5fa1c637.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b099a8a7.css",
+    "static/js/main.5fa1c637.js"
+  ]
 }
