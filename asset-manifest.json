@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fb1a7e94.css",
-    "main.js": "/static/js/main.29ddd324.js",
+    "main.js": "/static/js/main.b125f4d3.js",
     "static/media/About.jpg": "/static/media/About.ab1464739460b4e902ed.jpg",
     "static/media/lifeStyle.png": "/static/media/lifeStyle.c242dd2abc6422f215c0.png",
     "static/media/Upstyle.png": "/static/media/Upstyle.d52c3eef363520a5b8d5.png",
@@ -9,7 +9,7 @@
     "static/media/TrendyFashion.png": "/static/media/TrendyFashion.e7eb618542b2278f7eb0.png",
     "static/media/Bluefly.png": "/static/media/Bluefly.2b504811ec5289af03b0.png",
     "static/media/Modesens.png": "/static/media/Modesens.d109a66cdbb6325828b6.png",
-    "static/media/Ragini-Kaushal-Resume.pdf": "/static/media/Ragini-Kaushal-Resume.2cdab1435412dd7f23d1.pdf",
+    "static/media/Ragini-Kaushal.pdf": "/static/media/Ragini-Kaushal.6ac62fbc8fdd96319aa5.pdf",
     "static/media/contactus.jpeg": "/static/media/contactus.95c42366e930a3185ba0.jpeg",
     "static/media/brandBanner.png": "/static/media/brandBanner.025257503eb016e08acb.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -22,10 +22,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.fb1a7e94.css.map": "/static/css/main.fb1a7e94.css.map",
-    "main.29ddd324.js.map": "/static/js/main.29ddd324.js.map"
+    "main.b125f4d3.js.map": "/static/js/main.b125f4d3.js.map"
   },
   "entrypoints": [
     "static/css/main.fb1a7e94.css",
-    "static/js/main.29ddd324.js"
+    "static/js/main.b125f4d3.js"
   ]
 }
